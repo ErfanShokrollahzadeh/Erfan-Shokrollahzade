@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ErfanShokrollahzade
-- 👀 I’m interested in web design with Django
+- 👀 I’m interested in web design with Django(Backend)
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate. (for now nothing)
 - 📫 How to reach me? by email
